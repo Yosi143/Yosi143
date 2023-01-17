@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yosi143
+- 👋 Hi, I’m Yoseph Amsalu
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Becoming Software Developer in Linkedin
 - 💞️ I’m looking to collaborate on beginer session of software Developement.
