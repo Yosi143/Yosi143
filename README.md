@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yoseph Amsalu
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Becoming Software Developer in Linkedin
+- 🌱 I’m currently learning Becoming Software Developer.
 - 💞️ I’m looking to collaborate on beginer session of software Developement.
 - 📫 How to reach me any bootcamp or Learning Platform.(Free)
 
